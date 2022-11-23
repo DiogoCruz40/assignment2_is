@@ -1,0 +1,5 @@
+/jeeapp/ear/target/
+/jeeapp/ejbs/target/
+/jeeapp/jpa/target/
+/jeeapp/web/target/
+/.idea/
